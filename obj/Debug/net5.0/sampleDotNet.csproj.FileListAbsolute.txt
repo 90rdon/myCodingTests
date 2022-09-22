@@ -1,0 +1,30 @@
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/sampleDotNet.deps.json
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/sampleDotNet.runtimeconfig.json
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/sampleDotNet.runtimeconfig.dev.json
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/sampleDotNet.dll
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/ref/sampleDotNet.dll
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/sampleDotNet.pdb
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.csprojAssemblyReference.cache
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.AssemblyInfoInputs.cache
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.AssemblyInfo.cs
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.csproj.CoreCompileInputs.cache
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.dll
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/ref/sampleDotNet.dll
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.pdb
+/Users/9_0rdon/Local/Workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.genruntimeconfig.cache
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/sampleDotNet.deps.json
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/sampleDotNet.runtimeconfig.json
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/sampleDotNet.runtimeconfig.dev.json
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/sampleDotNet.dll
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/ref/sampleDotNet.dll
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/bin/Debug/net5.0/sampleDotNet.pdb
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.csprojAssemblyReference.cache
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.AssemblyInfoInputs.cache
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.AssemblyInfo.cs
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.csproj.CoreCompileInputs.cache
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.dll
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/ref/sampleDotNet.dll
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.pdb
+/Users/9_0rdon/Library/Mobile Documents/com~apple~CloudDocs/Documents/workspace/sandbox/dotnet/samples/sampleDotNet/obj/Debug/net5.0/sampleDotNet.genruntimeconfig.cache

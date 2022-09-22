@@ -1,0 +1,5 @@
+/Users/9_0rdon/Documents/workspace/sandbox/dotnet/samples/myCodingTests/obj/Debug/net5.0/myCodingTests.csproj.AssemblyReference.cache
+/Users/9_0rdon/Documents/workspace/sandbox/dotnet/samples/myCodingTests/obj/Debug/net5.0/myCodingTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/9_0rdon/Documents/workspace/sandbox/dotnet/samples/myCodingTests/obj/Debug/net5.0/myCodingTests.AssemblyInfoInputs.cache
+/Users/9_0rdon/Documents/workspace/sandbox/dotnet/samples/myCodingTests/obj/Debug/net5.0/myCodingTests.AssemblyInfo.cs
+/Users/9_0rdon/Documents/workspace/sandbox/dotnet/samples/myCodingTests/obj/Debug/net5.0/myCodingTests.csproj.CoreCompileInputs.cache
